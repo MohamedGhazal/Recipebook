@@ -14,6 +14,9 @@
 		CDC503B42218E714007D8C24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDC503B22218E714007D8C24 /* LaunchScreen.storyboard */; };
 		CDC503BF2218E714007D8C24 /* RecipebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC503BE2218E714007D8C24 /* RecipebookTests.swift */; };
 		CDC503CA2218E714007D8C24 /* RecipebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC503C92218E714007D8C24 /* RecipebookUITests.swift */; };
+		CDC503DA2218ED80007D8C24 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = CDC503D72218ED80007D8C24 /* Logo.png */; };
+		CDC503DB2218ED80007D8C24 /* Launchpage 17-11-08-919.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CDC503D82218ED80007D8C24 /* Launchpage 17-11-08-919.jpeg */; };
+		CDC503DC2218ED80007D8C24 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CDC503D92218ED80007D8C24 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		CDC503C52218E714007D8C24 /* RecipebookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecipebookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC503C92218E714007D8C24 /* RecipebookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipebookUITests.swift; sourceTree = "<group>"; };
 		CDC503CB2218E714007D8C24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDC503D72218ED80007D8C24 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo.png; path = Resources/Logo.png; sourceTree = SOURCE_ROOT; };
+		CDC503D82218ED80007D8C24 /* Launchpage 17-11-08-919.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Launchpage 17-11-08-919.jpeg"; path = "Resources/Launchpage 17-11-08-919.jpeg"; sourceTree = SOURCE_ROOT; };
+		CDC503D92218ED80007D8C24 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = Resources/icon.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +106,9 @@
 				CDC503A92218E714007D8C24 /* AppDelegate.swift */,
 				CDC503AB2218E714007D8C24 /* ViewController.swift */,
 				CDC503AD2218E714007D8C24 /* Main.storyboard */,
+				CDC503D82218ED80007D8C24 /* Launchpage 17-11-08-919.jpeg */,
+				CDC503D92218ED80007D8C24 /* icon.png */,
+				CDC503D72218ED80007D8C24 /* Logo.png */,
 				CDC503B02218E714007D8C24 /* Assets.xcassets */,
 				CDC503B22218E714007D8C24 /* LaunchScreen.storyboard */,
 				CDC503B52218E714007D8C24 /* Info.plist */,
@@ -229,6 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDC503DA2218ED80007D8C24 /* Logo.png in Resources */,
+				CDC503DB2218ED80007D8C24 /* Launchpage 17-11-08-919.jpeg in Resources */,
+				CDC503DC2218ED80007D8C24 /* icon.png in Resources */,
 				CDC503B42218E714007D8C24 /* LaunchScreen.storyboard in Resources */,
 				CDC503B12218E714007D8C24 /* Assets.xcassets in Resources */,
 				CDC503AF2218E714007D8C24 /* Main.storyboard in Resources */,
